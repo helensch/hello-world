@@ -9,3 +9,4 @@ use strict;
 print "hello world\n";
 print "date is " . localtime() . "\n";
 print "-" x 20, "\n";
+print "end\n"
